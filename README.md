@@ -18,9 +18,6 @@ Jeg har jobbet med spørringer som bruker `JOIN`, `GROUP BY`, `CASE`, `COALESCE`
 - Modellere karakterer og poeng (GPA) i relasjonsdatabaser
 
 ## 📂 Filstruktur
-- `Lab3_Answers_Extended.docx` – inneholder alle SQL-svar
-- `Lab3_Questions_Extended_answersEW.docx` – oppgaver med refleksjoner
-- `Lab 3 questions_øving til eksamen.sql` – testbar SQL-kode
-
----
+- `Lab3_Questions.sql` – SQL queries - svar på oppgaver
+- `Database ER-diagram University.docx` – database ER diagram
 
